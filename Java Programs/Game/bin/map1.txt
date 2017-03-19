@@ -1,4 +1,0 @@
-environmentName=map1
-xSize=4000
-ySize=4000
-numEnemies=50
