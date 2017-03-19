@@ -1,0 +1,38 @@
+#scoresBox{
+  position:absolute;
+  display:flex;
+  top:5%;
+  left:5%;
+  width:400px;
+  height:150px;
+  background-color:gold;
+  border-radius:10px;
+  border-width:5px;
+  border-style:inset
+
+}
+
+div.textBox{
+  height:80px;
+  width:100px;
+  margin:auto;
+  background-color:gray;
+  border-width:5px;
+  border-style:outset;
+  border-radius:10px;
+}
+#highScore{
+  margin:auto;
+  padding:20px;
+  font-family:monospace;
+}
+#currScore{
+  margin:auto;
+  padding:20px;
+  font-family:monospace;
+}
+#time{
+  margin:auto;
+  padding:20px;  
+  font-family:monospace;
+}

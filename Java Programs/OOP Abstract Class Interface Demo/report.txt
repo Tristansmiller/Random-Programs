@@ -1,0 +1,7 @@
+John 3
+B1 F2 T2
+B2 F2
+B1 F3 T2
+Mary 2
+B2 F2 T3
+B1 F1
