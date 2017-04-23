@@ -1,3 +1,5 @@
+parent(bill,bob).
+male(bill).
 
 mother(X,Y) :-
   parent(X,Y),
